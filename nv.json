@@ -51,7 +51,7 @@
         ,
         {
           "id": 10,
-          "name": "Dogxxing?",
+          "name": "Doxxing?",
           "keyword": "NODOXXING"
         },
         {
@@ -106,13 +106,13 @@
         },
         {
           "id": 21,
-          "name": "Crypto Slang Part 1",
+          "name": "Crypto Slang. Part 1",
           "keyword": "BLUMSTORM"
         },
         {
           "id": 22,
-          "name": "BLUMEXTRA",
-          "keyword": "What is On-chain Analysis?"
+          "name": "What is On-chain Analysis",
+          "keyword": "BLUMEXTRA"
         },
         {
           "id": 23,
@@ -121,7 +121,7 @@
         },
         {
           "id": 24,
-          "name": "Pump toner Special",
+          "name": "Pumptober Special",
           "keyword": "PUMPIT"
         },
         {
@@ -156,7 +156,7 @@
         },
         {
           "id": 31,
-          "name": "Next for DeFi?",
+          "name": "Next for DeFi",
           "keyword": "BLUMNOW"
         }
       ]
